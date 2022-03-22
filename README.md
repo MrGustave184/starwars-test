@@ -1,16 +1,19 @@
-# star-wars
 
-This is a test project using vuejs and the swapi REST API
+# Star Wars test project
+
+  
+
+This is a test project using vuejs and the swapi REST API\
+
 Developer: Rafael Ortiz
+
+  
 
 ## Project Setup
 
+  
+
 ```sh
 npm install
-```
-
-### Compile and serve
-
-```sh
 npm run serve
 ```
