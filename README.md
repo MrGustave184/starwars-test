@@ -3,7 +3,7 @@
 
   
 
-This is a test project using vuejs and the swapi REST API\
+This is a test project using vuejs and the swapi REST API
 
 Developer: Rafael Ortiz
 
